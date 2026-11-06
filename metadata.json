@@ -1,0 +1,6 @@
+{
+  "name": "Android Calculator (No Gradle)",
+  "description": "An authentic Android Material 3 Calculator app with scientific mode, unit conversions, and a complete interactive CLI build system showing how to build Android apps without Gradle.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
